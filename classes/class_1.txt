@@ -1,0 +1,14 @@
+table
+
+attributes:
+color (string)
+total capacity (integer)
+material (string)
+current capacity (integer)
+
+
+methods:
+change_color(changes the color of the table)
+remove_capacity(removes 2 to the total capacity)
+modify_material(modify's the material type)
+add_capacity(adds 1 to the current capacity)
