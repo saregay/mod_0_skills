@@ -2,9 +2,9 @@ table
 
 attributes:
 color (string)
-total capacity (integer)
+total_capacity (integer)
 material (string)
-current capacity (integer)
+current_capacity (integer)
 
 
 methods:

@@ -1,0 +1,16 @@
+circle table
+
+attributes:
+
+color:"brown"
+total_capacity:6
+material: "wooden"
+current_capacity:3
+
+
+
+Methods:
+change_color:"red"
+remove_capacity:total_capacity = 4
+modify_material: "metal"
+add_capacity:current_capacity = 4
