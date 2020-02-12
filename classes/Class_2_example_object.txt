@@ -1,0 +1,14 @@
+rectangle plate
+
+attributes:
+
+location: "under the sink"
+stickers: ["made in china"]
+color: "white"
+is_recycled:false
+
+method:
+change_location: changes location to "inside the cabinet"
+add_sticker:["made in china, material not recyclable"]
+paint_color: color = "red"
+recycled:  is_recycled = false
