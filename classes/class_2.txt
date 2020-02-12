@@ -1,0 +1,14 @@
+plate
+
+attributes:
+location(string)
+stickers(array)
+color(string)
+is_recycled(boolean)
+
+
+method:
+change_location (changes the location of where the place is stored)
+add_sticker (adds a sticker on the back of the stickers)
+paint_color (changes the color of the plate)
+recycled (sets is_recycled to false)
