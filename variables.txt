@@ -1,0 +1,16 @@
+food = "burrito","taco","lasagna"
+
+is_new = true
+
+
+food = "burrito","taco","lasagna"
+food = "vegetables", "fruit", "fish"
+
+
+num1= 1, 3, 5, 5
+num2= 2,5,2,4
+
+def mult num1,num2
+
+
+movie= ["frozen, harry potter, lord of the ring "]
